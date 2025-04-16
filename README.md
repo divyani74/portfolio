@@ -45,7 +45,7 @@ Hi! I'm **Divyani**, a passionate front-end developer with a flair for creating 
 
 Feel free to connect with me!
 
-📧 **Email**: _[divyanihase05@.com]_  
+📧 **Email**: _[divyanihase05@gmail.com]_  
   
 
 ---
